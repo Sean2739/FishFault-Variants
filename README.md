@@ -1,4 +1,4 @@
 # FishFault-Variants
-Various Versions of the Fishfault Texture Pack
+The Various Recolors & Versions of Fishfault
 
 For Liscence and Credits: https://github.com/Sean2739/Fishfault
