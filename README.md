@@ -1,4 +1,4 @@
 # FishFault-Variants
-The Various Versions & Recolors of Fishfault 
+The Various Versions of Fishfault 
 
 For Liscence and Credits: https://github.com/Sean2739/Fishfault
